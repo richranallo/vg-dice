@@ -1,0 +1,17 @@
+{
+  "name": "vg-dice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "lodash": "^4.17.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "allDice": "npm start 10 1000000; npm start 9 1000000; npm start 8 1000000; npm start 7 1000000; npm start 6 1000000; npm start 5 1000000; npm start 4 1000000; npm start 3 1000000; npm start 2 1000000"
+  },
+  "author": "",
+  "license": "ISC"
+}
